@@ -1,4 +1,6 @@
+progron.egg-info/
 __pycache__
 /build
 .idea/
 /dist
+uv.lock

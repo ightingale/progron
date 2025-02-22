@@ -28,3 +28,7 @@ dependencies = [
     "redis>=5.2.1",
 ]
 license = { text = "Apache-2.0" }
+
+[project.urls]
+Homepage = "https://github.com/ightingale/progron"
+Issues = "https://github.com/ightingale/progron/issues"
